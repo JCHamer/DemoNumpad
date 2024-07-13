@@ -1,0 +1,15 @@
+[submodule "sub/kiswitch"]
+	path = sub/kiswitch
+	url = git@github.com:kiswitch/kiswitch.git
+[submodule "sub/KiCad-RP-Pico"]
+	path = sub/KiCad-RP-Pico
+	url = git@github.com:ncarandini/KiCad-RP-Pico.git
+	branch = main
+[submodule "sub/marbastlib"]
+	path = sub/marbastlib
+	url = git@github.com:ebastler/marbastlib.git
+	branch = main
+[submodule "sub/Keebio-Parts.pretty"]
+	path = sub/Keebio-Parts.pretty
+	url = git@github.com:keebio/Keebio-Parts.pretty.git
+	branch = master
